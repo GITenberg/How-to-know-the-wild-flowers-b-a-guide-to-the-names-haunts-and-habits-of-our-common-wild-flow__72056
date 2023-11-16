@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '42044'
     url: http://www.gutenberg.org/2009/agents/42044
     wikipedia: https://en.wikipedia.org/wiki/Marion_Satterlee
+covers:
+- cover_type: archival
+  image_path: 72056-h/images/cover.jpg
 creator:
   author:
     agent_name: Parsons, Frances Theodora
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42043
     wikipedia: https://en.wikipedia.org/wiki/Frances_Theodora_Parsons
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72056#How-to-know-the-wild-flowers-b-a-guide-to-the-names-haunts-and-habits-of-our-common-wild-flow_
 gutenberg_issued: '2023-11-06'
 identifiers:
   gutenberg: '72056'
